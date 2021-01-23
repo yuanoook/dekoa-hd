@@ -22,7 +22,7 @@ Handy decorators & middlewares dedicated for Koa, batteris included:
 ## Installation
 
 ```bash
-npm install dekoa
+npm install dekoa-hd
 ```
 
 ## Decorators
@@ -36,7 +36,7 @@ npm install dekoa
   import Koa from 'koa'
   import glob from 'glob'
   import debug from 'debug'
-  import * as dekoa from 'dekoa'
+  import * as dekoa from 'dekoa-hd'
 
   const log = debug('debug')
   const server = new Koa()

@@ -1,6 +1,6 @@
 {
   "name": "dekoa-hd",
-  "version": "0.12.11",
+  "version": "0.12.12",
   "description": "Decorators for Koa",
   "main": "src/index.js",
   "repository": "https://github.com/yuanoook/dekoa-hd",
@@ -43,7 +43,7 @@
     "codecov": "codecov",
     "postcodecov": "rimraf coverage",
     "[VERSION]": "======= Semantic Versioning =======",
-    "push": "git push --follow-tags origin master && npm publish",
+    "push": "git push --follow-tags origin dekoa-hd && npm publish",
     "release": "standard-version --no-verify",
     "postrelease": "npm run push"
   },
