@@ -1,3 +1,5 @@
+This is a folk from [dekoa](https://github.com/jimzhan/dekoa) with the change https://github.com/jimzhan/dekoa/pull/2
+
 # dekoa - Decorators for Koa with :revolving_hearts:
 
 [![build](https://travis-ci.org/jimzhan/dekoa.svg?branch=master)](https://travis-ci.org/jimzhan/dekoa)

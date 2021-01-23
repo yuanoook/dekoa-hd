@@ -1,11 +1,11 @@
 {
-  "name": "dekoa",
+  "name": "dekoa-hd",
   "version": "0.12.11",
   "description": "Decorators for Koa",
   "main": "src/index.js",
-  "repository": "https://github.com/jimzhan/dekoa",
-  "author": "Jim Zhan <jim.zhan@me.com>",
-  "license": "Apache-2.0",
+  "repository": "https://github.com/yuanoook/dekoa-hd",
+  "author": "Rango Yuan <yuanoook@gmail.com>",
+  "license": "MIT",
   "keywords": [
     "es6",
     "es7",
